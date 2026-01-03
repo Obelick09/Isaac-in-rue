@@ -1,0 +1,18 @@
+<playerforms>
+	<form id="0" name="Гаппи!" costume="5" tags="guppy" cache="flying tearflag" />
+	<form id="1" name="Вельзевул!" costume="3" tags="fly" cache="flying" />
+	<form id="2" name="Грибник!" costume="20" tags="mushroom" />
+	<form id="3" name="Серафим!" costume="21" tags="angel" cache="flying" />
+	<form id="4" name="Боб!" costume="22" tags="bob" />
+	<form id="5" name="Передоз!" costume="23" tags="syringe" cache="speed damage" />
+	<form id="6" name="Да, мама?!" costume="24" tags="mom" />
+	<form id="7" name="Сросшийся!" costume="25" tags="baby" cache="firedelay damage" />
+	<form id="8" name="Левиафан!" costume="26" tags="devil" cache="flying" />
+	<form id="9" name="Вот Дерьмо!" costume="27" tags="poop" />
+	<form id="10" name="Книжный червь!" costume="37" tags="book" />
+	<form id="11" name="Взросление!" costume="38" />
+	<form id="12" name="Малыш паук!" costume="39" tags="spider" cache="familiars" />
+	<form id="13" name="Топтун!" />
+	<!-- <form id="14" name="#UNUSED_Transform_Flight" /> -->
+	<form id="15" name="Некромант!" />
+</playerforms>
